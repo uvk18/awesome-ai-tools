@@ -26,7 +26,6 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | GitHub Copilot   | IDE assistant                      | ❌ Paid       | [github.com/features/copilot](https://github.com/features/copilot) |
 | CodeWhisperer     | Amazon dev assistant              | ✅ Free       | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer/) |
 | Cursor           | Full AI coding IDE                 | ⚠️ Limited| [cursor.so](https://www.cursor.so) |
-| Kite (archived)  | Python autocomplete (legacy)       | ✅ Free       | [kite.com](https://www.kite.com) (archived) |
 | Codium AI        | AI code analysis/test generation   | ✅ Free       | [codium.ai](https://www.codium.ai) |
 | Tabnine          | Code completion engine             | ⚠️ Limited| [tabnine.com](https://www.tabnine.com) |
 
