@@ -118,7 +118,6 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Adept AI        | Multi-action assistant           | ❌ Paid       | [adept.ai](https://www.adept.ai) |
 
 
----
 
 ## Contributing
 
