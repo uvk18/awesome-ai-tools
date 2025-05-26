@@ -1,5 +1,18 @@
 # Awesome AI Services & Tools
 
+- <strong>Table of Contents</strong>
+  - [QA & Testing](#qa--testing)
+  - [Coding Assistants](#coding-assistants)
+  - [Writing & Content Creation](#writing--content-creation)
+  - [Text to MP3 / Speech](#️text-to-mp3--speech)
+  - [AI Video Creation](#ai-video-creation)
+  - [Design & Creativity](#design--creativity)
+  - [Productivity & Automation](#productivity--automation)
+  - [Other Useful Tools](#other-useful-tools)
+  - [License](#license)
+  - [Contributing](#contributing)
+
+
 A curated, categorized list of AI-powered tools across QA, coding, content, video, audio, design, productivity, and more — with free/limited/paid status noted.
 
 - ✅ Free plan available  
