@@ -119,7 +119,7 @@ Please ensure it fits a relevant category and includes:
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main?tab=MIT-1-ov-file) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/awesome-ai-tools?tab=MIT-1-ov-file) 
 </br>
 You're free to use, share, and adapt it — just link back to this repo if you do.  
 
