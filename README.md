@@ -104,3 +104,37 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Gamma App       | Presentation + docs generator    | ✅ Free       | [gamma.app](https://gamma.app) |
 | Adept AI        | Multi-action assistant           | ❌ Paid       | [adept.ai](https://www.adept.ai) |
 
+
+---
+
+## Contributing
+
+Have an awesome AI tool to suggest?  
+Feel free to open an issue or submit a pull request!  
+Please ensure it fits a relevant category and includes:  
+- A short description  
+- Accurate free/paid status  
+- Official website link  
+
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main?tab=MIT-1-ov-file) 
+</br>
+You're free to use, share, and adapt it — just link back to this repo if you do.  
+
+
+## Disclaimer
+
+This list is maintained for informational purposes only.  
+Tool descriptions, pricing, and availability may change over time.  
+Always review each tool's official site for the latest terms and features.
+
+
+## Credits
+
+Curated with ❤️ by Alex  
+Inspired by the awesome open-source and QA/testing communities.
+
+
+
