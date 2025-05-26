@@ -4,7 +4,7 @@
   - [QA & Testing](#qa--testing)
   - [Coding Assistants](#coding-assistants)
   - [Writing & Content Creation](#writing--content-creation)
-  - [Text to MP3 / Speech](#️text-to-mp3--speech)
+  - [Text to MP3 / Speech](#text-to-mp3--speech)
   - [AI Video Creation](#ai-video-creation)
   - [Design & Creativity](#design--creativity)
   - [Productivity & Automation](#productivity--automation)
