@@ -115,9 +115,9 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 
 ## Contributing
 
-Have an awesome AI tool to suggest?  
-Feel free to open an issue or submit a pull request!  
-Please ensure it fits a relevant category and includes:  
+Have an awesome AI tool to suggest ?  
+Feel free to open an issue or submit a pull request !  
+Please ensure it fits a relevant category and includes :  
 - A short description  
 - Accurate free/paid status  
 - Official website link  
