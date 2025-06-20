@@ -1,5 +1,5 @@
 # Awesome AI Services & Tools
-A curated, categorized list of AI-powered tools across QA, coding, content, video, audio, design, productivity, and more-with free / limited / paid status noted.
+A curated, categorized list of AI-powered tools across QA, coding, content, video, audio, design, productivity, and more-with free/limited/paid status noted.
 
 - <strong>Table of Contents</strong>
   - [QA & Testing](#qa--testing)
